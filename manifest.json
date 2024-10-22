@@ -1,0 +1,14 @@
+{
+    "name": "QR Maker",
+    "version": "1.0.0",
+    "description": "This extension makes QR codes in a single click",
+    "manifest_version": 3,
+    "author": "Cameron Cartwright",
+    "permissions": [
+        "tabs"
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "QR Maker"
+    }
+}
